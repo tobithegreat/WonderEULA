@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tobithegreat/WonderEULA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+End-User License Agreement (EULA) of Wonder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This End-User License Agreement ("EULA") is a legal agreement between you and BoyAtWilliams
 
-### Markdown
+This EULA agreement governs your acquisition and use of our Wonder software ("Software") directly from BoyAtWilliams or indirectly through a BoyAtWilliams authorized reseller or distributor (a "Reseller").
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please read this EULA agreement carefully before completing the installation process and using the Wonder software. It provides a license to use the Wonder software and contains warranty information and liability disclaimers.
 
-```markdown
-Syntax highlighted code block
+If you register for a free trial of the Wonder software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the Wonder software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
-# Header 1
-## Header 2
-### Header 3
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
-- Bulleted
-- List
+This EULA agreement shall apply only to the Software supplied by BoyAtWilliams herewith regardless of whether other software is referred to or described herein. The terms also apply to any BoyAtWilliams updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
 
-1. Numbered
-2. List
+License Grant
 
-**Bold** and _Italic_ and `Code` text
+BoyAtWilliams hereby grants you a personal, non-transferable, non-exclusive licence to use the Wonder software on your devices in accordance with the terms of this EULA agreement.
 
-[Link](url) and ![Image](src)
-```
+You are permitted to load the Wonder software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Wonder software.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You are not permitted to:
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tobithegreat/WonderEULA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+- Allow any third party to use the Software on behalf of or for the benefit of any third party
+- Use the Software in any way which breaches any applicable local, national or international law
+- use the Software for any purpose that BoyAtWilliams considers is a breach of this EULA agreement
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Intellectual Property and Ownership
+
+BoyAtWilliams shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of BoyAtWilliams.
+
+BoyAtWilliams reserves the right to grant licences to use the Software to third parties.
+
+Termination
+
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to BoyAtWilliams.
+
+This EULA was created by eulatemplate.com for Wonder
+
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+
+Governing Law
+
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of [COUNTRY].
